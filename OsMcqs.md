@@ -1,4 +1,4 @@
-1. What is an operating system?
+# 1. What is an operating system?
 a) interface between the hardware and application programs
 b) collection of programs that manages hardware resources
 c) system service provider to the application programs
