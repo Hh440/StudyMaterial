@@ -30,5 +30,5 @@ Below are the seven OSI layers, each with its specific functions:
 6. **Presentation Layer**
 7. **Application Layer**
 
-(https://images.javatpoint.com/tutorial/computer-network/images/osi-model2.png)
+!(https://images.javatpoint.com/tutorial/computer-network/images/osi-model2.png)
 
