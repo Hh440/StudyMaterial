@@ -8,7 +8,6 @@ The OSI model divides the entire communication task into seven smaller and manag
 
 ![OSI Model Diagram](https://images.javatpoint.com/tutorial/computer-network/images/osi-model.png)
 
-*(Replace the URL above with the actual image URL or path if stored locally)*
 
 ## Characteristics of OSI Model
 
