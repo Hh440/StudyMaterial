@@ -19,4 +19,15 @@ Full forms
 17. EDI => Electrical Data Interchange
 18. ARPANET => Advance Research Project Agency Network
 19. SDLC => SOftware Development Life cycle
-20. 
+20. BFS => Breadth First Search
+21. DFS => Depth First Search
+22. CRT => cathode ray tube 
+23. ASCII => American Standard Code for infromation Interchange
+24. BCD => Binary Coded Decimal
+25. EBCDIC => Extended Binary Coded Decimal Interchange code
+26. SNARC => Stochastic Neural Analog Reinforcement Computer (first neural computer)
+27. BLOB => Binary Large Object
+28. GUI => Graphical User Interface
+29. FIFO => First In First OUt
+30. LIFO => Last In First OUt
+31. RAID => Reduant Array of Independent Disk
