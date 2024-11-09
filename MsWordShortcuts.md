@@ -36,7 +36,7 @@
 34. **F6** - Move the cursor to the address bar
 35. **F7** - Spell check the document
 36. **F8** - Toggle caret browsing
-37. **F9** - Open the Open File dialog box
+37. **F9** - upadte Formula in a table
 38. **F10** - Open the menu bar
 39. **F11** - Toggle full screen mode
 40. **F12** - Open the Save As dialog box
@@ -57,3 +57,8 @@
 55. **End Key** - Move the cursor to the end of the line
 56. **Ctrl+Home** - Move the cursor to the beginning of the document
 57. **Home Key** - Move the cursor to the beginning of the line
+58. **Ctrl+End** - Move the insertion point to the bottom of your document.
+59. **Shift+Tab / Tab / Arrow Keys(Up and Down )** - Insertion point in a table can be moved
+60. **Shift+Delete** - Delete the selected item permanently without placing the item in the Recycle Bin
+61. **Ctrl+Shift** -  Create a shortcut to the selected item
+
