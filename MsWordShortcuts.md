@@ -61,4 +61,11 @@
 59. **Shift+Tab / Tab / Arrow Keys(Up and Down )** - Insertion point in a table can be moved
 60. **Shift+Delete** - Delete the selected item permanently without placing the item in the Recycle Bin
 61. **Ctrl+Shift** -  Create a shortcut to the selected item
+62. **Ctrl+Shift+F8** - It activates the rectangular selection
+63. **Alt+Ctrl+C** - USed to ceate Copyright symbol
+64. **Ctrl+=**  - Initiates the subscript
+65. **Ctrl+]** - Increases the font size
+66. **Ctrl+[** - Deacreases the font size
+67. **Ctrl+Shift++** - Initiates the superscript
+68. **Ctrl+Shift+P** -  access the font size tool on formatting toolbar/ change the font size
 
