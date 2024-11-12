@@ -31,3 +31,16 @@ Full forms
 29. FIFO => First In First OUt
 30. LIFO => Last In First OUt
 31. RAID => Reduant Array of Independent Disk
+32. SMPS => Switch Mode power supply(provides the necessary power to computer component)
+33. SSI => Small Scale Integration
+34. MSI => Medium Scale Integeration
+35. LSI => Large Scale Integeration
+36. VLSI => Very Large Scale Integeration
+37. ULSI => Ultra Large Scale Integeration
+38. OCR => Optical Character Recognition ( convert different types of documents, such as scanned paper documents, PDFs, or images captured by a digital camera, into editable and searchable digital text.)
+39. NIC => Network Interface Card ( hardware component that allows a computer or other device to connect to a network, such as a Local Area Network )
+40. MIPS => Millions Instructions per second(measures the processing speed in terms of how many instructions the CPU can execute per second. )
+41. CISC => Complex Instructions Set Computing(processors have a rich set of instructions that can execute complex operations in a single instruction cycle)
+42. RISC => Reduced Instruction Set Computing ( RISC processors use a smaller, simpler set of instructions that can be executed in a single clock cycle. )
+43. MISC => Minimal Instruction Set Computing (MISC is a type of processor design that uses an even smaller set of instructions than RISC.)
+44. LISC => Large Instructions Set Computing 

@@ -1,0 +1,16 @@
+# Types of Registers in a CPU
+
+| **Register Type**          | **Function**                                                                                         | **Use**                                                                                          |
+|----------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| **Data Register (DR)**      | Temporarily holds data being transferred to/from memory or I/O devices.                            | Holds data fetched from memory before being used by the CPU.                                      |
+| **Address Register (AR)**   | Holds the memory address used for data access.                                                      | Contains memory addresses for reading or writing data.                                           |
+| **Program Counter (PC)**    | Keeps track of the address of the next instruction to be executed.                                 | Points to the next instruction to be fetched and executed.                                       |
+| **Instruction Register (IR)**| Holds the current instruction being decoded and executed.                                          | Stores the instruction fetched from memory before decoding and execution.                        |
+| **Accumulator (ACC)**       | Stores the result of arithmetic and logic operations.                                               | Holds intermediate results of calculations during processing.                                    |
+| **Status Register (Flags Register)**| Stores status flags that indicate the outcome of operations (e.g., zero, carry, overflow).      | Contains flags like "zero", "carry", and "overflow" to indicate the result of operations.        |
+| **Stack Pointer (SP)**      | Points to the top of the stack in memory.                                                           | Manages the call stack for function calls, local variables, and return addresses.                |
+| **Base Register (BR)**      | Stores the base address for addressing in segmented memory systems.                                 | Used for calculating the effective address of a memory location.                                |
+| **General Purpose Registers (GPRs)** | Stores data temporarily during execution.                                                      | Can hold intermediate values during computation.                                                  |
+| **Control Register (CR)**   | Holds control information used to configure and manage the CPU's operation.                        | Configures memory management, interrupts, and CPU features.                                      |
+| **Floating Point Register (FPR)**| Stores floating-point numbers for arithmetic operations.                                          | Used for performing operations with decimal numbers (scientific computations).                   |
+| **Index Register (IR)**     | Modifies operand addresses during instruction execution.                                           | Used in indexed addressing modes for accessing arrays or data structures in memory.             |
