@@ -44,3 +44,6 @@ Full forms
 42. RISC => Reduced Instruction Set Computing ( RISC processors use a smaller, simpler set of instructions that can be executed in a single clock cycle. )
 43. MISC => Minimal Instruction Set Computing (MISC is a type of processor design that uses an even smaller set of instructions than RISC.)
 44. LISC => Large Instructions Set Computing 
+45. UPS => Uniinterruptible power supply    
+46. BIND => Berkely Internet Name Domain
+47. BCD => Binary coded decimal
