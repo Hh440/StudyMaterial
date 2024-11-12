@@ -14,7 +14,7 @@ Full forms
 12. MIME => Multipurpose Internet mail extension
 13. SNMP => Simple Network Management Protocol
 14. OSI => Open system Interconnection
-15. SLIP => Serial Line Internet Protocol
+15. SLIP => Serial Line Internet Protocol (SLIP (Serial Line Internet Protocol) is a simple method for sending internet data over a serial connection, like a phone line or cable, by wrapping internet packets in a way that can be transmitted through these links.)
 16. SONET => Synchronous Optical Network
 17. EDI => Electrical Data Interchange
 18. ARPANET => Advance Research Project Agency Network
@@ -47,3 +47,7 @@ Full forms
 45. UPS => Uniinterruptible power supply    
 46. BIND => Berkely Internet Name Domain
 47. BCD => Binary coded decimal
+48. LAT => Local Arear Transport
+49. KIS => Knowbot Information Services
+50. ISOC => Internet Society
+51. FPI => Frame per Inch
