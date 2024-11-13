@@ -691,3 +691,502 @@
 - C) The method of data analysis
 - D) The technique of software development  
 **Answer:** A) The stages that data goes through from creation to deletion
+
+## 100. What is the primary function of a database management system (DBMS)?
+- A) To create and manage databases
+- B) To provide cloud storage
+- C) To enhance network security
+- D) To manage user access  
+**Answer:** A) To create and manage databases
+
+## 101. Which of the following is a common programming language for backend development?
+- A) HTML
+- B) CSS
+- C) JavaScript
+- D) Ruby  
+**Answer:** D) Ruby
+
+## 102. What does the term "data warehouse" refer to?
+- A) A place to store operational data
+- B) A system used for reporting and data analysis
+- C) A type of database
+- D) A cloud storage solution  
+**Answer:** B) A system used for reporting and data analysis
+
+## 103. Which of the following is a common type of software deployment model?
+- A) On-premises
+- B) Cloud-based
+- C) Hybrid
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 104. What is the purpose of a software patch?
+- A) To add new features
+- B) To fix bugs and vulnerabilities
+- C) To improve performance
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 105. Which of the following is a common type of machine learning model?
+- A) Decision tree
+- B) Neural network
+- C) Support vector machine
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 106. What is the main purpose of a content management system (CMS)?
+- A) To manage user authentication
+- B) To create and manage digital content
+- C) To provide cloud services
+- D) To store data securely  
+**Answer:** B) To create and manage digital content
+
+## 107. What does the term "network latency" refer to?
+- A) The time it takes for data to travel from one point to another in a network
+- B) The amount of data that can be transmitted in a given time period
+- C) The number of devices connected to a network
+- D) The security measures in place for a network  
+**Answer:** A) The time it takes for data to travel from one point to another in a network
+
+## 108. Which of the following is a method for securing sensitive data?
+- A) Data masking
+- B) Data encryption
+- C) Access control
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 109. What is the main purpose of a network firewall?
+- A) To monitor network traffic
+- B) To block unauthorized access to or from a network
+- C) To manage user authentication
+- D) To store data  
+**Answer:** B) To block unauthorized access to or from a network
+
+## 110. Which of the following is a common type of cloud service?
+- A) Infrastructure as a Service (IaaS)
+- B) Platform as a Service (PaaS)
+- C) Software as a Service (SaaS)
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 111. What does the term "encryption" refer to?
+- A) The process of converting data into a coded format to prevent unauthorized access
+- B) The process of compressing data
+- C) The process of storing data
+- D) The process of managing user access  
+**Answer:** A) The process of converting data into a coded format to prevent unauthorized access
+
+## 112. Which of the following is a common type of database?
+- A) Relational database
+- B) NoSQL database
+- C) In-memory database
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 113. What is the purpose of a software development framework?
+- A) To provide a standardized way to build and deploy applications
+- B) To manage user authentication
+- C) To store data
+- D) To enhance network security  
+**Answer:** A) To provide a standardized way to build and deploy applications
+
+## 114. Which of the following is a common type of data storage?
+- A) Solid State Drive (SSD)
+- B) Hard Disk Drive (HDD)
+- C) Cloud storage
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 115. What does the term "load balancing" refer to?
+- A) Distributing network traffic across multiple servers to ensure no single server is overwhelmed
+- B) Storing data securely
+- C) Managing user access
+- D) Enhancing network speed  
+**Answer ```markdown
+:** A) Distributing network traffic across multiple servers to ensure no single server is overwhelmed
+
+## 116. Which of the following is a common type of software testing?
+- A) Unit testing
+- B) Integration testing
+- C) System testing
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 117. What is the primary purpose of a version control system?
+- A) To track changes in code and collaborate with other developers
+- B) To manage user access
+- C) To store data
+- D) To enhance network security  
+**Answer:** A) To track changes in code and collaborate with other developers
+
+## 118. Which of the following is a common type of data analysis?
+- A) Descriptive analysis
+- B) Predictive analysis
+- C) Prescriptive analysis
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 119. What does the term "API" stand for?
+- A) Application Programming Interface
+- B) Automated Programming Interface
+- C) Advanced Programming Interface
+- D) Application Protocol Interface  
+**Answer:** A) Application Programming Interface
+
+## 120. Which of the following is a common type of software development methodology?
+- A) Agile
+- B) Waterfall
+- C) DevOps
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 121. What is the primary purpose of a data governance framework?
+- A) To ensure data quality, security, and compliance
+- B) To manage user access
+- C) To store data
+- D) To enhance network performance  
+**Answer:** A) To ensure data quality, security, and compliance
+
+## 122. Which of the following is a common type of cloud deployment model?
+- A) Public cloud
+- B) Private cloud
+- C) Hybrid cloud
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 123. What does the term "data integrity" refer to?
+- A) The accuracy and consistency of data over its lifecycle
+- B) The process of data storage
+- C) The method of data analysis
+- D) The technique of software development  
+**Answer:** A) The accuracy and consistency of data over its lifecycle
+
+## 124. Which of the following is a common type of software development tool?
+- A) Integrated Development Environment (IDE)
+- B) Version control system
+- C) Continuous Integration/Continuous Deployment (CI/CD) tools
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 125. What is the primary purpose of a business continuity plan?
+- A) To ensure that critical business functions continue during and after a disaster
+- B) To manage user access
+- C) To enhance marketing strategies
+- D) To reduce operational costs  
+**Answer:** A) To ensure that critical business functions continue during and after a disaster
+
+## 126. Which of the following is a common type of cyber threat?
+- A) Phishing
+- B) Ransomware
+- C) Malware
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 127. What does the term "digital transformation" refer to?
+- A) The integration of digital technology into all areas of a business
+- B) The process of data storage
+- C) The method of data analysis
+- D) The technique of software development  
+**Answer:** A) The integration of digital technology into all areas of a business
+
+## 128. Which of the following is a common type of data visualization technique?
+- A) Bar charts
+- B) Line graphs
+- C) Heat maps
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 129. What is the primary purpose of a network security audit?
+- A) To assess the security posture of a network and identify vulnerabilities
+- B) To manage user access
+- C) To store data
+- D) To enhance network performance  
+**Answer:** A) To assess the security posture of a network and identify vulnerabilities
+
+## 130. Which of the following is a common type of software development practice?
+- A) Test-driven development (TDD)
+- B) Continuous integration (CI)
+- C) Pair programming
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 131. What does the term "data classification" refer to?
+- A) The process of organizing data into categories for its most effective and efficient use
+- B) The method of data storage
+- C) The technique of software development
+- D) The process of managing user access  
+**Answer:** A) The process of organizing data into categories for its most effective and efficient use
+
+## 132. Which of the following is a common type of software development tool used for collaboration?
+- A) Git
+- B) Slack
+- C) Microsoft Teams
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 133. What is the primary purpose of a risk management plan?
+- A) To identify, assess, and prioritize risks followed by coordinated efforts to minimize, monitor, and control the probability or impact of unfortunate events
+- B) To manage user access
+- C) To enhance marketing strategies
+- D) To store data  
+**Answer:** A) To identify, assess, and prioritize risks followed by coordinated efforts to minimize, monitor, and control the probability or impact of unfortunate events
+
+## 134. Which of the following is a common type of software development lifecycle model that emphasizes flexibility and customer feedback?
+- A) Agile
+- B) Waterfall
+- C) V-Model
+- D) All of the above  
+**Answer:** A) Agile
+
+## 135. What does the term "data retention policy" refer to?
+- A) A policy that outlines how long data should be kept and when it should be deleted
+- B) The process of data storage
+- C) The method of data analysis
+- D) The technique of software development  
+**Answer:** A) A policy that outlines how long data should be kept and when it should be deleted
+
+## 136. Which of the following is a common type of software testing that focuses on the functionality of individual components?
+- A) Unit testing
+- B) Integration testing
+- C) System testing
+- D) Acceptance testing  
+**Answer:** A) Unit testing
+
+## 137. What is the primary purpose of a security information and event management (SIEM) system?
+- A) To provide real-time analysis of security alerts generated by applications and network hardware
+- B) To manage user access
+- C) To store data
+- D) To enhance network performance  
+**Answer:** A) To provide real-time analysis of security alerts generated by applications and network hardware
+
+## 138. Which of the following is a common type of data storage architecture?
+- A) Distributed storage
+- B) Centralized storage
+- C) Cloud storage
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 139. What does the term "business intelligence" refer to?
+- A) The technologies and strategies used by enterprises for data analysis of business information
+- B) The process of data storage
+- C) The method of data analysis
+- D) The technique of software development  
+**Answer:** A) The technologies and strategies used by enterprises for data analysis of business information
+
+## 140. Which of the following is a common type of software development methodology that emphasizes collaboration between development and operations teams?
+- A) Agile
+- B) DevOps
+- C) Waterfall
+- D) All of the above  
+**Answer:** B) DevOps
+
+## 141. What is the primary purpose of a penetration test?
+- A) To simulate an attack on a system to identify vulnerabilities
+- B) To manage user access
+- C) To store data
+- D) To enhance network performance  
+**Answer:** A) To simulate an attack on a system to identify vulnerabilities
+
+## 142. Which of the following is a common type of data analysis that uses statistical techniques to predict future outcomes based on historical data?
+- A) Predictive analysis
+- B) Descriptive analysis
+- C) Prescriptive analysis
+- D) All of the above  
+**Answer:** A) Predictive analysis
+
+## 143. What does the term "cloud-native" refer to?
+- A) Applications that are designed to take full advantage of cloud computing
+- B) The process of data storage
+- C) The method of data analysis
+- D) The technique of software development  
+**Answer:** A) Applications that are designed to take full advantage of cloud computing
+
+## 144. Which of the following is a common type of software development tool used for continuous integration?
+- A) Jenkins
+- B) Travis CI
+- C) CircleCI
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 145. What is the primary purpose of a data breach response plan?
+- A) To outline the steps to take in the event of a data ```markdown
+breach to mitigate damage and protect sensitive information
+- B) To manage user access
+- C) To enhance marketing strategies
+- D) To store data  
+**Answer:** A) To outline the steps to take in the event of a data breach to mitigate damage and protect sensitive information
+
+## 146. Which of the following is a common type of software development practice that emphasizes automated testing?
+- A) Test-driven development (TDD)
+- B) Continuous integration (CI)
+- C) Behavior-driven development (BDD)
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 147. What does the term "data visualization" refer to?
+- A) The graphical representation of information and data
+- B) The process of data storage
+- C) The method of data analysis
+- D) The technique of software development  
+**Answer:** A) The graphical representation of information and data
+
+## 148. Which of the following is a common type of software development tool used for version control?
+- A) Git
+- B) Subversion (SVN)
+- C) Mercurial
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 149. What is the primary purpose of a data loss prevention (DLP) solution?
+- A) To protect sensitive data from unauthorized access and data breaches
+- B) To manage user access
+- C) To enhance marketing strategies
+- D) To store data  
+**Answer:** A) To protect sensitive data from unauthorized access and data breaches
+
+## 150. Which of the following is a common type of software development methodology that emphasizes iterative development and customer collaboration?
+- A) Agile
+- B) Waterfall
+- C) V-Model
+- D) All of the above  
+**Answer:** A) Agile
+
+## 151. What does the term "data governance" refer to?
+- A) The management of data availability, usability, integrity, and security
+- B) The process of data storage
+- C) The method of data analysis
+- D) The technique of software development  
+**Answer:** A) The management of data availability, usability, integrity, and security
+
+## 152. Which of the following is a common type of software testing that focuses on the overall functionality of the system?
+- A) Unit testing
+- B) Integration testing
+- C) System testing
+- D) Acceptance testing  
+**Answer:** C) System testing
+
+## 153. What is the primary purpose of a security policy?
+- A) To define rules and procedures for protecting an organization's information assets
+- B) To manage user access
+- C) To store data
+- D) To enhance network performance  
+**Answer:** A) To define rules and procedures for protecting an organization's information assets
+
+## 154. Which of the following is a common type of data storage technology?
+- A) Solid State Drive (SSD)
+- B) Hard Disk Drive (HDD)
+- C) Cloud storage
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 155. What does the term "data analytics" refer to?
+- A) The process of examining data sets to draw conclusions about the information they contain
+- B) The method of data storage
+- C) The technique of software development
+- D) The process of managing user access  
+**Answer:** A) The process of examining data sets to draw conclusions about the information they contain
+
+## 156. Which of the following is a common type of software development tool used for project management?
+- A) Trello
+- B) Asana
+- C) Microsoft Project
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 157. What is the primary purpose of a network security policy?
+- A) To define rules and procedures for protecting network resources
+- B) To manage user access
+- C) To store data
+- D) To enhance network performance  
+**Answer:** A) To define rules and procedures for protecting network resources
+
+## 158. Which of the following is a common type of data analysis technique?
+- A) Descriptive analysis
+- B) Predictive analysis
+- C) Prescriptive analysis
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 159. What does the term "cybersecurity" refer to?
+- A) The practice of protecting systems, networks, and programs from digital attacks
+- B) The process of managing user access
+- C) The method of data storage
+- D) The technique of software development  
+**Answer:** A) The practice of protecting systems, networks, and programs from digital attacks
+
+## 160. Which of the following is a common type of software development methodology that emphasizes collaboration between development and operations teams?
+- A) Agile
+- B) DevOps
+- C) Waterfall
+- D) All of the above  
+**Answer:** B) DevOps
+
+## 161. What is the primary purpose of a data retention policy?
+- A) To outline how long data should be kept and when it should be deleted
+- B) To manage user access
+- C) To enhance marketing strategies
+- D) To store data  
+**Answer:** A) To outline how long data should be kept and when it should be deleted
+
+## 162. Which of the following is a common type of software testing that focuses on the overall functionality of the system?
+- A) Unit testing
+- B) Integration testing
+- C) System testing
+- D) Acceptance testing  
+**Answer:** C) System testing
+
+## 163. What is the primary purpose of a security policy?
+- A) To define rules and procedures for protecting an organization's information assets
+- B) To manage user access
+- C) To store data
+- D) To enhance network performance  
+**Answer:** A) To define rules and procedures for protecting an organization's information assets
+
+## 164. Which of the following is a common type of data storage technology?
+- A) Solid State Drive (SSD)
+- B) Hard Disk Drive (HDD)
+- C) Cloud storage
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 165. What does the term "data analytics" refer to?
+- A) The process of examining data sets to draw conclusions about the information they contain
+- B) The method of data storage
+- C) The technique of software development
+- D) The process of managing user access  
+**Answer:** A) The process of examining data sets to draw conclusions about the information they contain
+
+## 166. Which of the following is a common type of software development tool used for project management?
+- A) Trello
+- B) Asana
+- C) Microsoft Project
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 167. What is the primary purpose of a network security policy?
+- A) To define rules and procedures for protecting network resources
+- B) To manage user access
+- C) To store data
+- D) To enhance network performance  
+**Answer:** A) To define rules and procedures for protecting network resources
+
+## 168. Which of the following is a common type of data analysis technique?
+- A) Descriptive analysis
+- B) Predictive analysis
+- C) Prescriptive analysis
+- D) All of the above  
+**Answer:** D) All of the above
+
+## 169. What does the term "cybersecurity" refer to?
+- A) The practice of protecting systems, networks, and programs from digital attacks
+- B) The process of managing user access
+- C) The method of data storage
+- D) The technique of software development  
+**Answer:** A) The practice of protecting systems, networks, and programs from digital attacks
+
+## 170. Which of the following is a common type of software development methodology that emphasizes collaboration between development and operations teams?
+- A) Agile
+- B) DevOps
+- C) Waterfall
+- D) All of the above  
+**Answer:** B) DevOps ⬤
