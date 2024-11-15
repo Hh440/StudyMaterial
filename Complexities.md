@@ -66,3 +66,43 @@
 - **Dynamic Programming Algorithms**: Solve complex problems by breaking them down into simpler sub-problems and reusing solutions. Examples include finding Fibonacci numbers, solving the knapsack problem, or calculating edit distances.
 
 - **Other Important Algorithms**: Includes various techniques, such as binary exponentiation for fast power calculations and the Euclidean algorithm for finding GCD.
+
+
+# Data Structure and Algorithm Complexities
+
+| **Data Structure / Algorithm**                   | **Operation**    | **Average Time Complexity** | **Worst Case Time Complexity** | **Space Complexity** | **Explanation**                                                                                                                                           |
+|--------------------------------------------------|------------------|-----------------------------|--------------------------------|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Array**                                        | Access          | O(1)                        | O(1)                           | O(n)                  | Arrays have constant-time access to any element using an index, but inserting/deleting requires shifting, leading to O(n) time.                           |
+|                                                  | Search          | O(n)                        | O(n)                           |                       | Linear search is required as the array is unsorted, which takes O(n) time in the worst case.                                                               |
+|                                                  | Insert/Delete   | O(n)                        | O(n)                           |                       | Insertions/deletions may require shifting elements, making them O(n).                                                                                     |
+| **Linked List**                                  | Access          | O(n)                        | O(n)                           | O(n)                  | Accessing an element by position requires traversal from the head, leading to O(n) time.                                                                  |
+|                                                  | Search          | O(n)                        | O(n)                           |                       | Searching requires traversal, making it O(n).                                                                                                             |
+|                                                  | Insert/Delete   | O(1)                        | O(1)                           |                       | Inserting or deleting at the head or tail (if pointer is known) is O(1).                                                                                  |
+| **Stack**                                        | Push/Pop        | O(1)                        | O(1)                           | O(n)                  | Stack operations (push and pop) work in constant time as they only add or remove from the top.                                                            |
+| **Queue**                                        | Enqueue/Dequeue | O(1)                        | O(1)                           | O(n)                  | Queue operations (enqueue and dequeue) are constant-time as they only involve adding/removing from the ends.                                              |
+| **Hash Table**                                   | Insert/Delete   | O(1)                        | O(n)                           | O(n)                  | In average cases, hash tables have O(1) time complexity, but collisions can lead to O(n) in the worst case.                                               |
+|                                                  | Search          | O(1)                        | O(n)                           |                       | Searching is O(1) on average but can be O(n) with poor hashing and many collisions.                                                                       |
+| **Binary Search Tree (BST)**                     | Insert/Delete   | O(log n)                    | O(n)                           | O(n)                  | Insertions/deletions in a balanced BST are O(log n), but O(n) in a skewed (unbalanced) tree.                                                              |
+|                                                  | Search          | O(log n)                    | O(n)                           |                       | BST search is O(log n) on average but can degrade to O(n) if unbalanced.                                                                                  |
+| **Balanced Binary Search Tree (e.g., AVL, Red-Black)** | Insert/Delete | O(log n)                    | O(log n)                       | O(n)                  | Self-balancing trees ensure that the height is always log n, making operations consistently O(log n).                                                    |
+| **Graph Traversal (BFS, DFS)**                   | Traversal       | O(V + E)                    | O(V + E)                       | O(V + E)              | Traverses all nodes (V) and edges (E) in the graph, visiting each once.                                                                                   |
+| **Binary Heap**                                  | Insert          | O(log n)                    | O(log n)                       | O(n)                  | Inserting a new element requires rearranging elements to maintain heap properties.                                                                        |
+|                                                  | Delete (Min/Max)| O(log n)                    | O(log n)                       |                       | Deleting the root (min or max) requires rearranging elements to preserve heap structure.                                                                  |
+| **Sorting Algorithms**                           | Bubble Sort     | O(n^2)                      | O(n^2)                         | O(1)                  | Simple but inefficient sorting algorithm with O(n^2) time complexity due to repeated comparisons and swaps.                                               |
+|                                                  | Merge Sort      | O(n log n)                  | O(n log n)                     | O(n)                  | Divide-and-conquer sorting algorithm with O(n log n) time but requires extra space for merging.                                                           |
+|                                                  | Quick Sort      | O(n log n)                  | O(n^2)                         | O(log n)              | Fast sorting with O(n log n) average time but O(n^2) worst-case if pivot is poorly chosen.                                                                |
+|                                                  | Heap Sort       | O(n log n)                  | O(n log n)                     | O(1)                  | Sorting using a binary heap; no extra space required beyond the input array.                                                                              |
+
+---
+
+## Data Structure and Algorithm Definitions
+
+1. **Array**: A collection of items stored at contiguous memory locations. Allows efficient indexing, but insertion/deletion is costly as elements may need shifting.
+
+2. **Linked List**: A sequence of nodes where each node points to the next. Allows efficient insertion/deletion but requires O(n) for access/search since it doesn’t have indices.
+
+3. **Stack**: A last-in, first-out (LIFO) data structure where the last element added is the first to be removed. Operations (push, pop) are constant time, O(1).
+
+4. **Queue**: A first-in, first-out (FIFO) data structure where the first element added is the first to be removed. Enqueue and dequeue operations are O(1).
+
+5. **Hash Table**: Uses a hash function to map keys
