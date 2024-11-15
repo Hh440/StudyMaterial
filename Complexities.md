@@ -66,8 +66,6 @@
 - **Dynamic Programming Algorithms**: Solve complex problems by breaking them down into simpler sub-problems and reusing solutions. Examples include finding Fibonacci numbers, solving the knapsack problem, or calculating edit distances.
 
 - **Other Important Algorithms**: Includes various techniques, such as binary exponentiation for fast power calculations and the Euclidean algorithm for finding GCD.
-
-
 # Data Structure and Algorithm Complexities
 
 | **Data Structure / Algorithm**                   | **Operation**    | **Average Time Complexity** | **Worst Case Time Complexity** | **Space Complexity** | **Explanation**                                                                                                                                           |
@@ -105,4 +103,18 @@
 
 4. **Queue**: A first-in, first-out (FIFO) data structure where the first element added is the first to be removed. Enqueue and dequeue operations are O(1).
 
-5. **Hash Table**: Uses a hash function to map keys
+5. **Hash Table**: Uses a hash function to map keys to values, offering average-case O(1) time for insert, delete, and search but may degrade to O(n) due to collisions.
+
+6. **Binary Search Tree (BST)**: A binary tree with each node having at most two children, arranged such that the left child is smaller and the right child is larger. Provides O(log n) operations on average if balanced but degrades to O(n) if unbalanced.
+
+7. **Balanced Binary Search Tree**: BSTs that automatically keep height balanced (like AVL, Red-Black trees) to ensure consistent O(log n) time complexity for operations.
+
+8. **Graph Traversal (BFS, DFS)**: BFS (Breadth-First Search) and DFS (Depth-First Search) traverse all nodes and edges of a graph, with time complexity of O(V + E) for V vertices and E edges.
+
+9. **Binary Heap**: A complete binary tree where each node satisfies the heap property (max-heap or min-heap). Used primarily in implementing priority queues with O(log n) insertions/deletions.
+
+10. **Sorting Algorithms**:
+    - **Bubble Sort**: Simple but inefficient O(n^2) sorting.
+    - **Merge Sort**: Divide-and-conquer O(n log n) sorting but requires O(n) space.
+    - **Quick Sort**: Fast on average (O(n log n)) but has O(n^2) worst-case complexity.
+    - **Heap Sort**: Sorts in O(n log n) time using a binary heap without additional space.
