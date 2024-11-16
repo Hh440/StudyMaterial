@@ -41,6 +41,7 @@ Paging is a **memory management scheme** used in operating systems to store and 
 1. CPU generates a **logical address**.
 2. The **Page Table** maps the page number to the corresponding frame.
 3. The **physical address** is calculated as:
+  Physical Address = Frame Number × Page Size + Offset
 
 ---
 
